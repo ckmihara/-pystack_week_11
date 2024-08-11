@@ -1,0 +1,2 @@
+Olá, aqui é o teste ara escrever no arquivo
+Abertura do arquivo com with
